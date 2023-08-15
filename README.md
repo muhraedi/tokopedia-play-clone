@@ -4,36 +4,19 @@ This project is a Tokopedia Play Clone that replicates core features of Tokopedi
 
 ## Demo
 
-Check out the live demo of Tokopedia Play Clone that: [https://recipe-box-demo.com](https://recipe-box-demo.com)
+Check out the live demo of Tokopedia Play Clone that: [https://tokopedia-play-clone-sigma.vercel.app/](https://tokopedia-play-clone-sigma.vercel.app/)
 
 ## Features
 
-- **Home Page:** Users can explore videos and products.
-  - **Video List:** Displays a list of videos with thumbnails from YouTube.
-  - **Video Detail Page:** Users can click on videos to view details, associated products, and comments.
-  - **Associated Products:** Explore related products for each video.
-  - **Embedded YouTube:** Watch videos within the app.
-  - **Commenting:** Engage with other users through comments.
-  - **Submit Comment Form:** Submit comments with name and comment content.
-
-## Pages
-
 ### Home Page
-- Displays video thumbnails and associated products.
-- Allows users to click on videos to navigate to the Video Detail Page.
+  - Displays video thumbnails and associated products.
+  - Allows users to click on videos to navigate to the Video Detail Page.
 
 ### Video Detail Page
-- Displays video details including title and views.
-- Embeds the YouTube video.
-- Shows associated products for the video.
-- Displays a list of comments and allows users to submit new comments.
-
-- Video Detail Page
-  - Associated Products: Explore related products.
-  - Video Details: Access title, views, and upload date.
-  - Like Videos: Show appreciation by liking videos.
-  - Commenting: Engage with others through comments.
-  - Realtime Comments: Dynamic discussions with real-time updates.
+  - Displays video details including title and views.
+  - Embeds the YouTube video.
+  - Shows associated products for the video.
+  - Displays a list of comments and allows users to submit new comments.
 
 ## Technologies Used
 
@@ -45,5 +28,5 @@ Check out the live demo of Tokopedia Play Clone that: [https://recipe-box-demo.c
 
 ## Screenshots
 
-![Recipe Box Home Page](/screenshots/home.png)
-![Recipe Details](/screenshots/recipe-details.png)
+![Home Page](https://github.com/muhraedi/tokopedia-play-clone/blob/main/frontend/src/assets/home-page.png)
+![Video Detail Page](https://github.com/muhraedi/tokopedia-play-clone/blob/main/frontend/src/assets/video-detail-page.png)
