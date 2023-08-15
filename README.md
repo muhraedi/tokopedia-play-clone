@@ -28,5 +28,10 @@ Check out the live demo of Tokopedia Play Clone that: [https://tokopedia-play-cl
 
 ## Screenshots
 
+### Home Page
+
 ![Home Page](https://github.com/muhraedi/tokopedia-play-clone/blob/main/frontend/src/assets/home-page.png)
+
+### Video Detail Page
+
 ![Video Detail Page](https://github.com/muhraedi/tokopedia-play-clone/blob/main/frontend/src/assets/video-detail-page.png)
