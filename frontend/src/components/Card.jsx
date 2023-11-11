@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
+import { formatNumberWithKMT } from "../utils/helper";
 
 function Card({ video }) {
   return (
@@ -37,7 +38,7 @@ function Card({ video }) {
             d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
           />
         </svg>
-        {video.views}
+        {formatNumberWithKMT(video.views)}
       </p>
     </Link>
   );
